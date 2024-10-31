@@ -116,7 +116,15 @@ pip install numpy opencv-python
 # Executa o código
 python main.py
 ```
+## Demonstacao 
+
+O labirinto pode ser configurado para ter diferentes níveis de aleatoriedade, ajustando seus parâmetros para torná-lo mais ou menos imprevisível. Abaixo, veja um exemplo com um labirinto mais aleatório:
+
 [Exemplo labirinto 1.webm](https://github.com/user-attachments/assets/087aa213-7373-421d-ab65-b78c72b57ec7)
+
+Neste segundo exemplo, os parâmetros foram ajustados para gerar um labirinto menos aleatório:
+
+[Exemplo labirinto 2](https://github.com/user-attachments/assets/1eb51122-348d-4760-b2a7-a7c718e42a42)
 
 # Conclusão   
 
