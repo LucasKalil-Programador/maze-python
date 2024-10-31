@@ -116,6 +116,7 @@ pip install numpy opencv-python
 # Executa o código
 python main.py
 ```
+[output_video.webm](https://github.com/user-attachments/assets/087aa213-7373-421d-ab65-b78c72b57ec7)
 
 # Conclusão   
 
